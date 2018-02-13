@@ -8,8 +8,7 @@ namespace KryptoniteProject
     {
         public void Greet(string name, string parameter)
         {
-            Console.WriteLine(name);
-            Console.WriteLine(parameter);
+            Console.WriteLine("Greetings for the " + parameter);
         }        
     }
 }
