@@ -4,7 +4,7 @@ using System.Text;
 
 namespace KryptoniteProject
 {
-    class greet
+    class Greeting
     {
         public void Greet(string name)
         {

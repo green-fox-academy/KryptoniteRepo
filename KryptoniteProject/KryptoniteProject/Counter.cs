@@ -8,7 +8,7 @@ namespace KryptoniteProject
     {
         public void Count(int age)
         {
-            Console.WriteLine(age);
+            Console.WriteLine(11);
         }
     }
 }
