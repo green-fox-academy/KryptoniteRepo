@@ -6,9 +6,9 @@ namespace KryptoniteProject
 {
     public class Random
     {
-        public static void Cheer(string input)
+        public static void Cheer(string input1, string input2)
         {
-            Console.WriteLine("hungarian");
+            Console.WriteLine("Cheer for ",input);
         }
     }
 }

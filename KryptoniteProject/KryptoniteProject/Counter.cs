@@ -9,6 +9,7 @@ namespace KryptoniteProject
         public void Count(int age, string dog)
         {
             Console.WriteLine(age + dog);
+            Console.WriteLine(11);
         }
     }
 }

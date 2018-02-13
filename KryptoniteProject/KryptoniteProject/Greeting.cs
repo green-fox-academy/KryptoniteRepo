@@ -6,7 +6,7 @@ namespace KryptoniteProject
 {
     class Greeting
     {
-        public void Greet(string name)
+        public void Greet(string name, string parameter)
         {
             Console.WriteLine("Greetings for the " + name);
         }        
