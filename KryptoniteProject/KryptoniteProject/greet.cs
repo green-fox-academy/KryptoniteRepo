@@ -8,7 +8,7 @@ namespace KryptoniteProject
     {
         public void Greet()
         {
-            Console.WriteLine("Tamas");
+            Console.WriteLine("Greetings");
         }        
     }
 }
