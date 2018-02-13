@@ -8,7 +8,7 @@ namespace KryptoniteProject
     {
         public static void Cheer(string input1, string input2)
         {
-            Console.WriteLine(input1 + " " + input2);
+            Console.WriteLine("Cheer for ",input);
         }
     }
 }
