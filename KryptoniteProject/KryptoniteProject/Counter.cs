@@ -6,9 +6,9 @@ namespace KryptoniteProject
 {
     class Counter
     {
-        public void Count()
+        public void Count(int age)
         {
-            Console.WriteLine("Your age");
+            Console.WriteLine(age);
         }
     }
 }
